@@ -1,13 +1,13 @@
-# Libro
- Aplicação que transforma e-books em audiobooks.
-
+# Libro 
+    Application that transforms e-books into audiobooks, inspired on spotify design.
 
 ## User stories
-- Usuário pode fazer seu login / cadastro para ter acesso a aplicação
-- Usuário poderá recuperar sua senha através de um link enviado para seu email
-- Usuário poderá subir um e-book no formato pdf, assim que enviado, o processamento para audio-book é iniciado
-- Usuário poderá ver uma barra de progresso para verificar o status do processamento de seu audio-book
-- Usuário poderá definir se seu audiobook será público ou privado
-- Usuários poderão visualizar todos os audiobooks que outros usuários definiram como público, os audiobooks irão conter também seus respectivos e-books
-- Usuário poderá visualizar em seu perfil, todos os audiobooks e e-books que ele subiu, seja público ou privado
-- Usuário poderá favoritar um audiobook, assim que favoritado, será possível visualiza-lo em seu perfil em uma seção de "favoritos"
+- User can login / register to have access to the application
+- User can recover his password through a link sent to his email
+- User can upload an e-book in pdf format, as soon as it is sent, the processing for audio-book is started
+- User can see a progress bar to check the status of processing his audio-book
+- User can define whether his audiobook will be public or private
+- Users will be able to view all the audiobooks that other users have defined as public, the audiobooks will also contain their respective e-books
+- User can view in his profile, all the audiobooks and e-books that he uploaded, whether public or private
+- User can bookmark an audiobook, as soon as it is bookmarked, it will be possible to view it in his profile in a "favorites" section
+
