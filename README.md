@@ -1,5 +1,6 @@
 # Libro 
-    Application that transforms e-books into audiobooks, inspired on spotify design.
+
+Application that transforms e-books into audiobooks, inspired on spotify design.
 
 ## User stories
 - User can login / register to have access to the application
